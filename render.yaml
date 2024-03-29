@@ -7,7 +7,4 @@ services:
     envVars:
       - key: DASH_DEBUG_MODE
         value: 'false'
-    routes:
-      - type: http
-        source: /
-        destination: /
+
