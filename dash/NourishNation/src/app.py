@@ -152,7 +152,7 @@ def update_output(n_clicks, year, month):
         )
     
     # Return a default message when the page loads for the first time
-    return html.Div("Enter year and month, then click predict.", style={'color': 'black'})
+    #return html.Div("Enter year and month, then click predict.", style={'color': 'black'})
 
 if __name__ == '__main__':
     app.run_server(debug=True)
