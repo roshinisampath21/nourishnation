@@ -1,0 +1,34 @@
+Nutrient,Amount (General),Unit (General),Amount (Pregnant Women),Unit (Pregnant Women),Amount (Malnutrition),Unit (Malnutrition)
+Protein,34,g,34,g,34,g
+Carbohydrate,130,g,130,g,130,g
+Dietary Fiber,22.4,g,22.4,,22.4,g
+Total fat,25-35,% of total calories,25-35,,25-35,% of total calories
+Saturated fat,10,% of total calories,10,,10,% of total calories
+Linoleic acid,10,g,10,,10,g
+Linolenic acid,1.2,g,1.2,,1.2,g
+Calcium,1300,mg,1300,mg,1300,mg
+Iron,8,mg,8,mg,8,mg
+Magnesium,240,mg,240,mg,240,mg
+Phosphorus,1250,mg,1250,mg,1250,mg
+Potassium,4500,mg,4500,mg,4500,mg
+Sodium,2200,mg,2200,mg (UL),2200,mg
+Zinc,8,mg,8,mg,8,mg
+Copper,0.7,mg,0.7,mg,0.7,mg
+Manganese,1.9,mg,1.9,mg,1.9,mg
+Selenium,40,mcg,40,mcg,40,mcg
+Vitamin A,600,mcg RAE,600,mcg RAE,600,mcg RAE
+Vitamin E,11,mg AT,11,mg AT,11,mg AT
+Vitamin D,600,IU,600,IU,600,IU
+Vitamin C,45,mg,45,mg,45,mg
+Thiamin,0.9,mg,0.9,mg,0.9,mg
+Riboflavin,0.9,mg,0.9,mg,0.9,mg
+Niacin,12,mg,12,mg,12,mg
+Vitamin B-6,1,mg,1,,1,mg
+Vitamin B-12,1.8,mcg,1.8,,1.8,mcg
+Choline,375,mg,375,mg,375,mg
+Vitamin K,60,mg,60,mg,60,mg
+Folate,300,mcg DFE,300,mg DFE,300,mcg DFE
+Linoleic Acid,,,,g,,
+Alpha-Linolenic Acid,,,,g,,
+Vitamin B6,,,,mg,,
+Vitamin B12,,,,mg,,
