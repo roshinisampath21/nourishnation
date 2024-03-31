@@ -5,27 +5,32 @@ This project addresses the current crisis of climate change's impact on agricult
 ## Dataset
 
 The datasets are stored under the `dataset` folder. 
+
 1. crop_data.csv
 Columns: Includes information on food ID, name, various nutrients (name, amount, symbol), unit, labels, and agricultural data like N, P, K values, temperature, humidity, pH, and rainfall.
 Rows: 327,400
 Preview: Lists nutrients for crops like Coffee, including protein content and various environmental requirements for growth.
 
 2. crop_human.csv
+   
 Columns: Agricultural data (N, P, K, temperature, humidity, pH, rainfall), labels for crops, and human categories they are suited for.
 Rows: 2,200
 Preview: Contains agronomic data and suitability categories for humans, indicating which crops are recommended for specific human nutritional needs.
 
 3. pre_future.csv
+   
 Columns: Yearly and monthly precipitation forecasts (YEAR, monthly values JAN-DEC, and seasonal summaries MAM, JJA, SON, DJF, ANN).
 Rows: 132
 Preview: Provides historical and future precipitation data, including yearly averages and monthly distributions.
 
 4. temp_future.csv
+
 Columns: Yearly and monthly temperature forecasts similar to pre_future.csv.
 Rows: 132
 Preview: Contains temperature forecasts, detailing monthly and annual averages, which are crucial for agricultural planning.
 
 5. vap_future.csv
+
 Columns: Yearly and monthly vapor pressure data structured similarly to the previous future forecast datasets.
 Rows: 132
 Preview: Offers vapor pressure forecasts, providing additional climatic parameters for agricultural analysis.
