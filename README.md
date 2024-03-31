@@ -1,10 +1,34 @@
 # Project Title
 
-Your project's abstract or a brief description. Mention the aim of the project and any high-level information that would be relevant to someone encountering your project for the first time.
+This project addresses the current crisis of climate change's impact on agricultural productivity by introducing an innovative approach that integrates Hadoop's HDFS with machine learning algorithms. Our approach focuses on pre-harvest crop production forecasting, delivering precise projections that are vital to efficient management strategies in the midst of climate variability. The project is aligned with the UN's 2030 Sustainable Development Goal of eradicating hunger, using extensive weather analysis to produce nutrient-rich crops that can withstand changing climatic circumstances, thereby optimizing crop selections and fostering sustainable farming practices.
 
 ## Dataset
 
-The datasets are stored under the `dataset` folder. Provide details about the datasets, such as sources, data format, and what information they contain.
+The datasets are stored under the `dataset` folder. 
+1. crop_data.csv
+Columns: Includes information on food ID, name, various nutrients (name, amount, symbol), unit, labels, and agricultural data like N, P, K values, temperature, humidity, pH, and rainfall.
+Rows: 327,400
+Preview: Lists nutrients for crops like Coffee, including protein content and various environmental requirements for growth.
+
+2. crop_human.csv
+Columns: Agricultural data (N, P, K, temperature, humidity, pH, rainfall), labels for crops, and human categories they are suited for.
+Rows: 2,200
+Preview: Contains agronomic data and suitability categories for humans, indicating which crops are recommended for specific human nutritional needs.
+
+3. pre_future.csv
+Columns: Yearly and monthly precipitation forecasts (YEAR, monthly values JAN-DEC, and seasonal summaries MAM, JJA, SON, DJF, ANN).
+Rows: 132
+Preview: Provides historical and future precipitation data, including yearly averages and monthly distributions.
+
+4. temp_future.csv
+Columns: Yearly and monthly temperature forecasts similar to pre_future.csv.
+Rows: 132
+Preview: Contains temperature forecasts, detailing monthly and annual averages, which are crucial for agricultural planning.
+
+5. vap_future.csv
+Columns: Yearly and monthly vapor pressure data structured similarly to the previous future forecast datasets.
+Rows: 132
+Preview: Offers vapor pressure forecasts, providing additional climatic parameters for agricultural analysis.
 
 ## Machine Learning Algorithms
 
