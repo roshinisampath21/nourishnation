@@ -42,7 +42,7 @@ The models and machine learning algorithms are located in the `machinelearningal
 
 Predictive Modeling: To forecast future weather conditions using historical weather data, enabling the system to predict suitable crops based on these forecasts.
 
-Crop Suitability Recommendations: Machine learning models analyze weather forecasts alongside nutritional requirements to recommend the most suitable crops.
+Crop Suitability Recommendations: Machine-learning model RandomForest analyzes weather forecasts alongside nutritional requirements to recommend the most suitable crops.
 
 ## Dash UI
 
