@@ -1,4 +1,4 @@
-# Project Title
+# Agricultural Decision Support System Using Hadoop and Machine Learning
 
 This project addresses the current crisis of climate change's impact on agricultural productivity by introducing an innovative approach that integrates Hadoop's HDFS with machine learning algorithms. Our approach focuses on pre-harvest crop production forecasting, delivering precise projections that are vital to efficient management strategies in the midst of climate variability. The project is aligned with the UN's 2030 Sustainable Development Goal of eradicating hunger, using extensive weather analysis to produce nutrient-rich crops that can withstand changing climatic circumstances, thereby optimizing crop selections and fostering sustainable farming practices.
 
