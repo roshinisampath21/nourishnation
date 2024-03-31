@@ -7,11 +7,12 @@ This project addresses the current crisis of climate change's impact on agricult
 The datasets are stored under the `dataset` folder. 
 
 1. crop_data.csv
+   
 Columns: Includes information on food ID, name, various nutrients (name, amount, symbol), unit, labels, and agricultural data like N, P, K values, temperature, humidity, pH, and rainfall.
 Rows: 327,400
 Preview: Lists nutrients for crops like Coffee, including protein content and various environmental requirements for growth.
 
-2. crop_human.csv
+3. crop_human.csv
    
 Columns: Agricultural data (N, P, K, temperature, humidity, pH, rainfall), labels for crops, and human categories they are suited for.
 Rows: 2,200
