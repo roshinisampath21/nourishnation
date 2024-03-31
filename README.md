@@ -38,7 +38,11 @@ Preview: Offers vapor pressure forecasts, providing additional climatic paramete
 
 ## Machine Learning Algorithms
 
-The models and machine learning algorithms are located in the `machinelearningalgo` folder. Describe the algorithms you've implemented, their purpose, and any libraries or frameworks used.
+The models and machine learning algorithms are located in the `machinelearningalgo` folder. 
+
+Predictive Modeling: To forecast future weather conditions using historical weather data, enabling the system to predict suitable crops based on these forecasts.
+
+Crop Suitability Recommendations: Machine learning models analyze weather forecasts alongside nutritional requirements to recommend the most suitable crops.
 
 ## Dash UI
 
